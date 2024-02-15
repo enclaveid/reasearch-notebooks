@@ -1,0 +1,7 @@
+gradio
+openai
+langchain
+json_repair
+sortedcontainers
+tiktoken
+python-dotenv

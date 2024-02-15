@@ -1,0 +1,6 @@
+FROM pgvector/pgvector:0.6.0-pg16
+
+ENV POSTGRES_DB=enclaveid
+ENV POSTGRES_USER=enclaveid
+ENV POSTGRES_PASSWORD=enclaveid
+ENV POSTGRES_HOST_AUTH_METHOD=md5

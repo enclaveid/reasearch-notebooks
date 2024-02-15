@@ -1,0 +1,46 @@
+{
+  "conversations": {
+    "openness": {
+      "positive": "Shares diverse interests and topics, actively engages in discussions about new experiences and ideas, shows curiosity and excitement about different perspectives. Example: Discussing a recent trip to a new country.",
+      "negative": "Limited topic range, focused on routine subjects, lack of engagement in new ideas, dismissive or indifferent to culturally stimulating discussions.  Example: Avoiding discussions about unfamiliar cultural events."
+    },
+    "conscientiousness": {
+      "positive": "Detailed discussions about personal plans and goals, demonstrates follow-through on commitments, conversational organization, focuses on productive topics. Example: Describing steps taken towards a personal project.",
+      "negative": "Conversations lack structure, avoidance of planning or achievement topics, indications of procrastination or disorganization. Example: Ignoring questions about future goals or plans."
+    },
+    "extraversion": {
+      "positive": "Frequently initiates conversations, especially about social events, enthusiastic tone in group activities, actively participates in group discussions. Example: Initiating plans for a group outing.",
+      "negative": "Sparse engagement in conversations, preference for solitary topics, disinterest in social activities, limited social interaction. Example: Short responses to invitations, expressing desire to stay in."
+    },
+    "agreeableness": {
+      "positive": "Uses cooperative and supportive language, shows empathy and concern for others, maintains a polite and friendly tone, focuses on positive interactions. Example: Offering help to someone discussing a problem.",
+      "negative": "Engages in conflict and hostility, lacks empathy, predominantly argumentative or confrontational dialogue. Example: Dismissing others' opinions in a discussion."
+    },
+    "neuroticism": {
+      "positive": "Reflects calmness and emotional balance, discusses coping well with stress, lacks excessive worry or negative rumination. Example: Discussing a stressful event calmly and constructively.",
+      "negative": "Frequent expression of anxiety or fears, focuses on negative outcomes and health concerns, stressed or agitated tone. Example: Repeatedly expressing worries about unlikely scenarios."
+    }
+  },
+  "searches": {
+    "openness": {
+      "positive": "Searches demonstrating interest in cultural diversity, artistic endeavors, and intellectual pursuits. Examples include inquiries about foreign cultures, art exhibitions, philosophical debates, or scientific innovations.",
+      "negative": "A pattern of searches with limited variety, focusing predominantly on familiar or routine subjects, and avoiding abstract, creative, or diverse topics."
+    },
+    "conscientiousness": {
+      "positive": "Searches indicative of planning, organization, and diligence. This includes looking up information on time management, detailed planning, goal-setting strategies, and systematic research on various topics.",
+      "negative": "A lack of structured searching, evident in last-minute or erratic search patterns, and an absence of queries related to goal planning or organizational tasks."
+    },
+    "extraversion": {
+      "positive": "Searches related to social engagement and activities. This can be identified by inquiries about social events, networking opportunities, community gatherings, or social media platforms.",
+      "negative": "Minimal searches about social interactions or activities, with a focus on solitary interests or a lack of interest in engaging in social or public events."
+    },
+    "agreeableness": {
+      "positive": "Searches reflecting empathy, altruism, and an interest in social welfare. Indicators include looking up volunteer opportunities, charitable organizations, social justice issues, or ways to support community initiatives.",
+      "negative": "Searches that suggest conflict, competitiveness, or a self-centered perspective. This might include queries focused on personal gain at the expense of others, or a lack of interest in cooperative or altruistic endeavors."
+    },
+    "neuroticism": {
+      "positive": "An absence of excessive searches about worries, fears, or health anxieties, indicating a balanced approach to concerns and stressors.",
+      "negative": "Frequent and repetitive searches about personal fears, health anxieties, potential negative outcomes, or worst-case scenarios, suggesting high levels of worry or stress."
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "reactive": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            },
+            "time_start": {
+              "type": "string"
+            },
+            "time_end": {
+              "type": ["string", "null"]
+            }
+          },
+          "required": ["title", "description", "time_start", "time_end"]
+        }
+      ]
+    },
+    "proactive": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            },
+            "time_start": {
+              "type": "string"
+            },
+            "time_end": {
+              "type": ["string", "null"]
+            }
+          },
+          "required": ["title", "description", "time_start", "time_end"]
+        }
+      ]
+    }
+  },
+  "required": ["reactive", "proactive"]
+}

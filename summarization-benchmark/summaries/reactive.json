@@ -1,0 +1,979 @@
+{
+  "2023-04-01": [
+    {
+      "title": "Malaga metro map",
+      "description": "Searching for transportation routes possibly for immediate transit needs in Malaga.",
+      "time_start": "10:11",
+      "time_end": "10:11"
+    },
+    {
+      "title": "Random curiosity searches",
+      "description": "Searches about yellow ducks, and why doves coo suggest immediate stimuli or short-lived curiosity.",
+      "time_start": "10:24",
+      "time_end": "10:31"
+    },
+    {
+      "title": "Karachi event or location",
+      "description": "Could be a reactive search related to a recent event or a current discussion topic.",
+      "time_start": "15:39",
+      "time_end": "15:40"
+    }
+  ],
+  "2023-04-02": [
+    {
+      "title": "Search for Lauren Sanchez",
+      "description": "Potentially triggered by news article or media mention.",
+      "time_start": "9:05",
+      "time_end": "9:05"
+    },
+    {
+      "title": "Automobile Search",
+      "description": "Immediate need or desire indicated by the specific search for car models and used options.",
+      "time_start": "15:09",
+      "time_end": "15:09"
+    },
+    {
+      "title": "Diesel Price Inquiry",
+      "description": "Likely a response to immediate fueling need.",
+      "time_start": "10:38",
+      "time_end": "10:38"
+    },
+    {
+      "title": "Football Match Search",
+      "description": "Immediate search related to finding entertainment options for the day.",
+      "time_start": "17:15",
+      "time_end": "17:15"
+    },
+    {
+      "title": "Eventbrite Local Events",
+      "description": "A search for events reflecting spontaneous decision making.",
+      "time_start": "17:51",
+      "time_end": "17:51"
+    }
+  ],
+  "2023-04-03": [
+    {
+      "title": "Purchasing Here I Stand Board Game",
+      "description": "Detailed searches about purchasing 'Here I Stand' including pricing and delivery options.",
+      "time_start": "7:50",
+      "time_end": "8:22"
+    },
+    {
+      "title": "Tracking Online Orders",
+      "description": "User is responding to immediate needs of tracking the status of an online order.",
+      "time_start": "14:19",
+      "time_end": "14:21"
+    },
+    {
+      "title": "Order Shipping Options",
+      "description": "Looking up shipping from Romania to Italy, related to immediate plans for receiving a game.",
+      "time_start": "9:37",
+      "time_end": "9:37"
+    },
+    {
+      "title": "Sunset Time Inquiry",
+      "description": "Finding out the time of the sunset in Paris, likely for daily planning purposes.",
+      "time_start": "17:22",
+      "time_end": "17:22"
+    },
+    {
+      "title": "Casual Evening Browsing",
+      "description": "Browsing information related to Hasbro, Stephen Curry, and Westbrook may be in response to news or recent events.",
+      "time_start": "21:54",
+      "time_end": "21:55"
+    }
+  ],
+  "2023-04-04": [
+    {
+      "title": "Weather Check for Paris",
+      "description": "Immediate need to know the day's weather in Paris for planning purposes.",
+      "time_start": "6:45",
+      "time_end": "7:23"
+    },
+    {
+      "title": "Background Removal Tool",
+      "description": "Likely responding to an immediate task requiring image editing.",
+      "time_start": "15:53",
+      "time_end": "15:53"
+    },
+    {
+      "title": "Dining Reservation",
+      "description": "Making a booking at a restaurant or service responding to immediate need.",
+      "time_start": "16:31",
+      "time_end": "16:31"
+    },
+    {
+      "title": "Social Media and Personal Queries",
+      "description": "Searching for a person on Instagram and information about a machine potentially related to work.",
+      "time_start": "17:01",
+      "time_end": "17:50"
+    },
+    {
+      "title": "Health Concerns - Throat Burning Sensation",
+      "description": "Reacting to immediate health concerns or symptoms experienced.",
+      "time_start": "22:10",
+      "time_end": "22:17"
+    }
+  ],
+  "2023-04-05": [
+    {
+      "title": "Looking up financial and business information",
+      "description": "User seeking immediate, current information possibly for practical decision-making or curiosity.",
+      "time_start": "6:35",
+      "time_end": "7:03"
+    },
+    {
+      "title": "Travel Planning",
+      "description": "User appears to be searching for travel options, potentially booking flights.",
+      "time_start": "8:32",
+      "time_end": "8:43"
+    },
+    {
+      "title": "Housing Search",
+      "description": "User is looking for immediate housing options, indicating a short-term need.",
+      "time_start": "17:39",
+      "time_end": "17:39"
+    },
+    {
+      "title": "Translation and Cultural Inquiry",
+      "description": "User seeking immediate translation and information on a cultural term or personality.",
+      "time_start": "12:01",
+      "time_end": "12:03"
+    },
+    {
+      "title": "Immediate Game Strategy and Rules",
+      "description": "User is looking for strategies and rules for an imminent game session.",
+      "time_start": "21:14",
+      "time_end": "21:26"
+    }
+  ],
+  "2023-04-06": [
+    {
+      "title": "Weird Fishes Lyrics",
+      "description": "Looking up lyrics for a song the user is currently listening to or wants to understand.",
+      "time_start": "6:44",
+      "time_end": "6:45"
+    },
+    {
+      "title": "Weather Check",
+      "description": "Searching for weather information, likely for immediate or near-future travel plans or activities.",
+      "time_start": "12:04",
+      "time_end": "12:04"
+    },
+    {
+      "title": "Transportation Information",
+      "description": "Inquiring about how to reach Paris-Beauvais Airport, indicating imminent travel.",
+      "time_start": "14:26",
+      "time_end": "14:26"
+    },
+    {
+      "title": "Food Delivery",
+      "description": "Looking into Uber Eats for ordering food, which is typically a response to an immediate need for a meal.",
+      "time_start": "15:34",
+      "time_end": "15:34"
+    },
+    {
+      "title": "Miscellaneous Immediate Interests",
+      "description": "A variety of searches that appear to be initiated by immediate curiosity or needs, including a product search, a software tool guide, a photography filter, and a Reddit thread.",
+      "time_start": "15:44",
+      "time_end": "21:08"
+    }
+  ],
+  "2023-04-07": [
+    {
+      "title": "Daisy Chaining Research",
+      "description": "Research for an immediate technical problem or need regarding daisy chaining.",
+      "time_start": "7:57",
+      "time_end": "7:57"
+    },
+    {
+      "title": "Dow Meaning Inquiry",
+      "description": "Looking up the term 'dow' possibly after encountering it in a game.",
+      "time_start": "9:16",
+      "time_end": "9:16"
+    },
+    {
+      "title": "Insoles Search",
+      "description": "Seeking information on insoles likely for an immediate personal comfort need.",
+      "time_start": "11:01",
+      "time_end": "11:01"
+    },
+    {
+      "title": "Local Transportation Queries",
+      "description": "Looking for immediate options for local transportation from Beauvais SNCF to the airport and bus tickets.",
+      "time_start": "15:23",
+      "time_end": "15:42"
+    },
+    {
+      "title": "Immediate Health Inquiries",
+      "description": "Immediate health-related searches concerning collarbone and hearing aids.",
+      "time_start": "16:58",
+      "time_end": "18:10"
+    },
+    {
+      "title": "Current News Check",
+      "description": "Reactive checking of current events and news about Israel.",
+      "time_start": "17:09",
+      "time_end": "17:09"
+    },
+    {
+      "title": "Cultural and Entertainment Interest",
+      "description": "Reactive searches related to 'Scott Pilgrim vs. The World' meme and artist Negative XP.",
+      "time_start": "14:54",
+      "time_end": "15:15"
+    }
+  ],
+  "2023-04-08": [],
+  "2023-04-09": [
+    {
+      "title": "Churchill Meme",
+      "description": "Searching for humor related to Winston Churchill, possibly sparked by a social media post or conversation.",
+      "time_start": "10:07",
+      "time_end": "10:07"
+    },
+    {
+      "title": "Turkey Translations",
+      "description": "Looking up translations for the word 'turkey' in French and English, possibly for immediate linguistic clarification.",
+      "time_start": "11:58",
+      "time_end": "11:59"
+    },
+    {
+      "title": "Professional Profiles",
+      "description": "Looking up individuals like 'gretamaso' and Julia Selemet on LinkedIn, Instagram, and TikTok, potentially in response to a recent reference or interaction.",
+      "time_start": "15:37",
+      "time_end": "17:10"
+    },
+    {
+      "title": "Unknown Term",
+      "description": "Searching the term 'dindiot,' likely a reactive search due to immediate curiosity or misunderstanding.",
+      "time_start": "11:58",
+      "time_end": "11:58"
+    }
+  ],
+  "2023-04-10": [
+    {
+      "title": "Bus Information in Treviso",
+      "description": "Searching for bus lines in Treviso, possibly related to immediate travel plans or local transportation needs.",
+      "time_start": "8:26",
+      "time_end": "8:26"
+    },
+    {
+      "title": "Air Quality Checks",
+      "description": "Looking up current air quality data for Paris, New York City, and Venice, possibly due to travel concerns or current events impacting the user.",
+      "time_start": "8:51",
+      "time_end": "8:52"
+    },
+    {
+      "title": "Athletic Interests",
+      "description": "Looking into athletes' dating experiences and reasons colleges seek athletes, which might be in response to a recent conversation or personal situation.",
+      "time_start": "7:48",
+      "time_end": "7:52"
+    },
+    {
+      "title": "Streaming Content",
+      "description": "Seeking streaming options for movies and the TV series 'The White Lotus', and searching for associated actors, indicative of a desire for immediate entertainment.",
+      "time_start": "18:58",
+      "time_end": "20:31"
+    }
+  ],
+  "2023-04-11": [
+    {
+      "title": "Airport and Transportation Planning",
+      "description": "Searches related to Paris-Beauvais airport and shuttle services for immediate travel plans or transport requirements.",
+      "time_start": "8:37",
+      "time_end": "8:37"
+    },
+    {
+      "title": "Personal Health Inquiry",
+      "description": "Looking up information about pilonidal cysts, including symptoms and treatments, indicates a health concern requiring timely attention.",
+      "time_start": "16:35",
+      "time_end": "16:35"
+    },
+    {
+      "title": "Professional Profile Lookup",
+      "description": "Searching for Antonio Garcia-Martinez on LinkedIn, likely for a prompt professional reason such as an upcoming meeting.",
+      "time_start": "12:36",
+      "time_end": "12:36"
+    }
+  ],
+  "2023-04-12": [
+    {
+      "title": "Jade Arrow gamer / Jade Arrow game / Jadearrowgamer",
+      "description": "Searches related to a specific game or gamer, likely a response to immediate interest or conversation.",
+      "time_start": "8:14",
+      "time_end": "8:15"
+    },
+    {
+      "title": "Samo vjeran pas / Testi termiti vjeran pas",
+      "description": "The user looking up terms possibly related to music or a specific topic of interest triggered by a recent event.",
+      "time_start": "9:50",
+      "time_end": "9:50"
+    },
+    {
+      "title": "Paola Santana",
+      "description": "User searching for information on Paola Santana, possibly in reaction to a recent mention or event.",
+      "time_start": "9:52",
+      "time_end": "9:52"
+    },
+    {
+      "title": "Meteo Paris / Ivry sur seine meteo",
+      "description": "User checking the weather, indicating an immediate need for weather information, likely for travel or daily planning.",
+      "time_start": "15:12",
+      "time_end": "20:16"
+    }
+  ],
+  "2023-04-13": [
+    {
+      "title": "Searching for Individual",
+      "description": "Lookup of an individual named Chioma Menankiti, possibly triggered by a recent mention or encounter.",
+      "time_start": "09:19",
+      "time_end": "09:19"
+    },
+    {
+      "title": "Weather Check",
+      "description": "Checking the weather in Paris, a common reactive task based on daily plans.",
+      "time_start": "11:51",
+      "time_end": "11:51"
+    },
+    {
+      "title": "Weather Check",
+      "description": "Another instance of checking the weather in Paris, likely due to planning needs.",
+      "time_start": "19:12",
+      "time_end": "19:12"
+    },
+    {
+      "title": "Checking Bike's Charging Time",
+      "description": "Searching for the charging time for an electric bike indicates an immediate need to use the bike.",
+      "time_start": "11:52",
+      "time_end": "11:52"
+    },
+    {
+      "title": "Working with Graphics",
+      "description": "Need for a TikZ renderer and SVG/HTML editors suggests an ongoing project requiring these tools.",
+      "time_start": "13:08",
+      "time_end": "13:47"
+    },
+    {
+      "title": "Vocabulary Search",
+      "description": "Looking up a term to describe a frequent complainer could be in response to a specific conversation or social interaction.",
+      "time_start": "13:39",
+      "time_end": "13:39"
+    },
+    {
+      "title": "Dating App Inquiry",
+      "description": "Investigating the Bumble app for potential dating or networking purposes is typically a reaction to social needs.",
+      "time_start": "14:20",
+      "time_end": "14:20"
+    },
+    {
+      "title": "Flight and Airport Tracking",
+      "description": "Using Flightradar24 and searching for an airport name indicates immediate travel curiosity or need for logistical information.",
+      "time_start": "15:04",
+      "time_end": "15:05"
+    }
+  ],
+  "2023-04-14": [
+    {
+      "title": "Bumble Profile Adjustments",
+      "description": "Adjusting Bumble profile settings in response to an app prompt or particular need.",
+      "time_start": "5:43",
+      "time_end": "5:43"
+    },
+    {
+      "title": "Unit Conversion for Bumble",
+      "description": "Converting height measurements on Bumble from one unit system to another.",
+      "time_start": "10:25",
+      "time_end": "10:25"
+    },
+    {
+      "title": "Paris Weather and Transportation",
+      "description": "Seeking immediate weather information for Paris and understanding bicycle policies for subway transit.",
+      "time_start": "14:33",
+      "time_end": "14:34"
+    },
+    {
+      "title": "Current Events and Passport Information",
+      "description": "Looking up recent news about Twitter layoffs and checking passport strength for immediate knowledge.",
+      "time_start": "18:36",
+      "time_end": "18:40"
+    },
+    {
+      "title": "French Heating Restrictions",
+      "description": "Searching for France's heating restrictions possibly for immediate application or preparation.",
+      "time_start": "19:40",
+      "time_end": "19:40"
+    },
+    {
+      "title": "Cooking and Fashion Terms",
+      "description": "Finding a recipe ('sarde in saor') and the French term for a tank top ('canottiera in francese') likely for a near-term cooking experience or dressing up for an event.",
+      "time_start": "16:08",
+      "time_end": "21:07"
+    }
+  ],
+  "2023-04-15": [
+    {
+      "title": "Food Recipes",
+      "description": "Finding recipes for immediate cooking needs, indicating a short-term intent.",
+      "time_start": "14:39",
+      "time_end": "14:39"
+    },
+    {
+      "title": "Meme or Current Event Response",
+      "description": "Reacting to a trending meme or current event on social media.",
+      "time_start": "16:51",
+      "time_end": "16:51"
+    },
+    {
+      "title": "Immediate Technical Inquiries",
+      "description": "Looking up immediate technology-related questions about GPT-4 and tap directions.",
+      "time_start": "20:24",
+      "time_end": "21:05"
+    },
+    {
+      "title": "Social Engagement",
+      "description": "Searching for an English-speaking board games event in Paris for immediate participation.",
+      "time_start": "20:24",
+      "time_end": "20:25"
+    },
+    {
+      "title": "Urgent Health Inquiry",
+      "description": "Concerned search about a possible connection between acne and kidney health.",
+      "time_start": "21:33",
+      "time_end": "21:33"
+    },
+    {
+      "title": "Travel Restrictions Inquiry",
+      "description": "Checking travel advisories for Russia due to current events or immediate travel consideration.",
+      "time_start": "22:02",
+      "time_end": "22:04"
+    }
+  ],
+  "2023-04-16": [
+    {
+      "title": "Trip Planning - Strasbourg Europa Park",
+      "description": "A one-time event planning search likely in response to recent decision or opportunity to visit the park.",
+      "time_start": "7:21",
+      "time_end": "7:21"
+    },
+    {
+      "title": "Troubleshooting Docker Issues and Translations",
+      "description": "Immediate need to solve a Docker-related problem or translate technical content.",
+      "time_start": "13:03",
+      "time_end": "13:03"
+    },
+    {
+      "title": "Colombian Slang Curiosity",
+      "description": "Spontaneous curiosity about the use of 'gonorrea' as an insult in Colombia.",
+      "time_start": "13:45",
+      "time_end": "13:46"
+    },
+    {
+      "title": "Music Interest - Das Kabinette",
+      "description": "Short-term interest in music content for entertainment or leisure.",
+      "time_start": "15:29",
+      "time_end": "15:30"
+    },
+    {
+      "title": "Cooking Recipe Search - Zucchini",
+      "description": "Immediate meal planning or cooking activity.",
+      "time_start": "20:28",
+      "time_end": "20:29"
+    }
+  ],
+  "2023-04-17": [
+    {
+      "title": "Weather Check",
+      "description": "Checking the weather for Paris likely for planning the day's activities.",
+      "time_start": "6:55",
+      "time_end": "6:55"
+    },
+    {
+      "title": "Scrapy and Web Scraping Inquiries",
+      "description": "Research on web crawling tools and Scrapy for immediate coding and project needs.",
+      "time_start": "7:13",
+      "time_end": "7:14"
+    },
+    {
+      "title": "Python File Handling",
+      "description": "Looking up how to handle file overriding in Python, likely related to an immediate coding task.",
+      "time_start": "7:46",
+      "time_end": "7:46"
+    },
+    {
+      "title": "Chat GPT Input Limit Query",
+      "description": "Needed immediate information on GPT input limitations for a task.",
+      "time_start": "7:50",
+      "time_end": "7:50"
+    },
+    {
+      "title": "Fintech Service Comparisons",
+      "description": "Comparing fintech services for immediate decision-making, such as choosing a service provider.",
+      "time_start": "8:44",
+      "time_end": "8:56"
+    },
+    {
+      "title": "Tyson Foods Searches",
+      "description": "Immediate interest or specific task-related search possibly for purchasing or investing.",
+      "time_start": "8:56",
+      "time_end": "8:57"
+    },
+    {
+      "title": "Preparing a Meal",
+      "description": "Looking up recipes for fajitas, suggesting an immediate interest in meal preparation.",
+      "time_start": "16:17",
+      "time_end": "16:17"
+    },
+    {
+      "title": "Game Related Information",
+      "description": "Searching for specific information on 'A Plague Tale' game for immediate knowledge.",
+      "time_start": "19:06",
+      "time_end": "19:06"
+    },
+    {
+      "title": "Encountering a Spider",
+      "description": "Knowledge seeking for identification of a spider, indicative of an immediate reactive search.",
+      "time_start": "21:25",
+      "time_end": "21:32"
+    },
+    {
+      "title": "OAuth Verification Details",
+      "description": "Immediate troubleshooting or information seeking for a work process.",
+      "time_start": "20:57",
+      "time_end": "20:57"
+    }
+  ],
+  "2023-04-18": [
+    {
+      "title": "Leaving Notice Period Inquiry",
+      "description": "Searches for information regarding leaving notice periods indicate a need to understand immediate employment obligations.",
+      "time_start": "7:28",
+      "time_end": "7:28"
+    },
+    {
+      "title": "Interest in Apple M2 Chip",
+      "description": "Exploring the new Apple M2 chip suggests a spontaneous interest prompted by recent product news.",
+      "time_start": "7:35",
+      "time_end": "7:35"
+    },
+    {
+      "title": "Looking up Quai de Bercy Location",
+      "description": "Immediate search for a specific location in Paris, potentially for short-term planning of a visit or commutation.",
+      "time_start": "7:36",
+      "time_end": "7:36"
+    },
+    {
+      "title": "Exercise Advice for Sore Muscles",
+      "description": "Seeking advice on how to handle exercising while experiencing sore muscles, responsive to a physical condition.",
+      "time_start": "10:04",
+      "time_end": "10:04"
+    },
+    {
+      "title": "Finding Best 531 App",
+      "description": "Searches for a fitness app to assist with a workout regime represent an immediate need for tools to support personal fitness.",
+      "time_start": "10:20",
+      "time_end": "10:21"
+    },
+    {
+      "title": "VPN for Online Privacy",
+      "description": "The look-up for Mullvad VPN hints at a concern for personal online privacy that likely requires attention in the short term.",
+      "time_start": "11:23",
+      "time_end": "11:23"
+    },
+    {
+      "title": "Health-related Information on Moderna",
+      "description": "Inquiring about Moderna represents a search likely triggered by current health discussions or events.",
+      "time_start": "17:30",
+      "time_end": "17:30"
+    },
+    {
+      "title": "Terraforming Mars Game",
+      "description": "Gathering information on a board game suggests planning for immediate leisure or strategic gameplay.",
+      "time_start": "20:12",
+      "time_end": "20:22"
+    }
+  ],
+  "2023-04-19": [
+    {
+      "title": "Weather Inquiry",
+      "description": "Searches related to the weather in Paris, indicating an immediate need for weather information",
+      "time_start": "12:30",
+      "time_end": "12:30"
+    },
+    {
+      "title": "Electric Heater Safety",
+      "description": "Searches for safety concerns and functionality of electric heaters, suggesting an immediate concern or recent purchase",
+      "time_start": "23:02",
+      "time_end": "23:04"
+    }
+  ],
+  "2023-04-20": [
+    {
+      "title": "De'Longhi Search",
+      "description": "Quick search possibly related to an immediate purchase decision or need.",
+      "time_start": "07:08",
+      "time_end": null
+    },
+    {
+      "title": "Gmail Market Share",
+      "description": "Looking up information on Gmail's market share, perhaps for a work-related or current event query.",
+      "time_start": "11:28",
+      "time_end": null
+    },
+    {
+      "title": "EU Inflation Rates",
+      "description": "Seeking up-to-date information on EU countries' inflation rates, likely for immediate use.",
+      "time_start": "17:03",
+      "time_end": null
+    },
+    {
+      "title": "Culinary Searches for Saint Honor\u00e9 and C\u00e9dric Grolet",
+      "description": "Researching for immediate culinary interests such as finding a patisserie or planning a meal.",
+      "time_start": "17:35",
+      "time_end": "17:54"
+    },
+    {
+      "title": "Asparagus Recipe",
+      "description": "Looking for a recipe on preparing asparagus, indicating a plan to cook in the near future.",
+      "time_start": "18:04",
+      "time_end": null
+    },
+    {
+      "title": "Plaza de Mayo, Argentina",
+      "description": "Viewing information about Plaza de Mayo, possibly needed for a trip, discussion, or paper.",
+      "time_start": "20:49",
+      "time_end": null
+    }
+  ],
+  "2023-04-21": [
+    {
+      "title": "Transportation inquiries",
+      "description": "Finding out options for traveling with a bicycle on the RER C train line in Paris.",
+      "time_start": "8:12",
+      "time_end": "8:14"
+    },
+    {
+      "title": "Fitness-related search",
+      "description": "Inquiring about the muscles involved in pull-ups, likely related to exercise activity.",
+      "time_start": "9:26",
+      "time_end": "9:26"
+    },
+    {
+      "title": "Historical or trivial curiosity",
+      "description": "Reading about the unique story of Wojtek the bear out of personal interest.",
+      "time_start": "17:45",
+      "time_end": "17:45"
+    },
+    {
+      "title": "Travel planning",
+      "description": "Searching for flight options for specific dates, indicating a need for scheduling travel.",
+      "time_start": "18:27",
+      "time_end": "18:27"
+    },
+    {
+      "title": "Coworking space search",
+      "description": "Searching for coworking spaces in Paris for an immediate workplace requirement.",
+      "time_start": "20:02",
+      "time_end": "20:02"
+    },
+    {
+      "title": "Dating app comparisons",
+      "description": "Comparing dating apps such as Hinge and Bumble, indicating an immediate social or personal curiosity.",
+      "time_start": "23:32",
+      "time_end": "23:32"
+    }
+  ],
+  "2023-04-22": [
+    {
+      "title": "Return Policy Inquiry",
+      "description": "Checks return policy of Victoria's Secret, likely due to a recent purchase or considering making a return.",
+      "time_start": "18:22",
+      "time_end": "18:22"
+    },
+    {
+      "title": "Weather Check",
+      "description": "Checks weather conditions in Paris, indicative of planning for the day or travel.",
+      "time_start": "10:09",
+      "time_end": "18:56"
+    },
+    {
+      "title": "Bicycle Research",
+      "description": "Searches related to bicycle purchases or repairs show an immediate response to a transportation need or a new interest in cycling.",
+      "time_start": "17:20",
+      "time_end": "17:20"
+    },
+    {
+      "title": "Pop Culture and Current Events",
+      "description": "Searches for recent articles, discussions, and memes like 'wazzup Beijing', responding to immediate curiosity or exposure.",
+      "time_start": "10:19",
+      "time_end": "10:19"
+    },
+    {
+      "title": "Epicanthic Fold Inquiry",
+      "description": "Looking up information on the epicanthic fold, likely driven by sudden interest or recent conversation about physical traits.",
+      "time_start": "19:50",
+      "time_end": "19:50"
+    }
+  ],
+  "2023-04-23": [
+    {
+      "title": "Essca Paris",
+      "description": "A search that might have been prompted by recent considerations about education options or discussions.",
+      "time_start": "14:46",
+      "time_end": null
+    },
+    {
+      "title": "Amorino",
+      "description": "Possibly a reaction to encountering the term or brand, looking for immediate information about Amorino.",
+      "time_start": "15:53",
+      "time_end": null
+    },
+    {
+      "title": "Hotpot",
+      "description": "Likely a search due to immediate hunger or interest in finding hotpot-related dining options or recipes.",
+      "time_start": "17:33",
+      "time_end": null
+    },
+    {
+      "title": "Film searches related to Mafia",
+      "description": "Investigation of Mafia-related films possibly prompted by a recent conversation or event.",
+      "time_start": "19:19",
+      "time_end": "19:34"
+    }
+  ],
+  "2023-04-24": [
+    {
+      "title": "Presto SQL Queries",
+      "description": "Immediate searches for achieving particular tasks or addressing issues within SQL queries using Presto.",
+      "time_start": "14:09",
+      "time_end": "15:00"
+    },
+    {
+      "title": "Vitamin D3 Daily Dose Inquiry",
+      "description": "A health-related inquiry likely followed by immediate application on the daily dosage of vitamin D3.",
+      "time_start": "11:05",
+      "time_end": "11:05"
+    },
+    {
+      "title": "Call Transcription and Data Visualization Tools",
+      "description": "Queries for specific tools needed for call transcription and data visualization, possibly for an urgent project requirement.",
+      "time_start": "12:26",
+      "time_end": "12:27"
+    },
+    {
+      "title": "Political Figure Research",
+      "description": "Curiosity-driven research into Russian political figures, potentially due to a recent news item or discussion.",
+      "time_start": "17:05",
+      "time_end": "17:06"
+    },
+    {
+      "title": "Evening Leisure Planning",
+      "description": "Near-term planning for social activities and exploring locations for leisure.",
+      "time_start": "22:09",
+      "time_end": "22:13"
+    }
+  ],
+  "2023-04-25": [
+    {
+      "title": "Why Is It Important to Control Immigration",
+      "description": "Seeking immediate understanding possibly due to a recent event, discussion, or academic need.",
+      "time_start": "6:45",
+      "time_end": null
+    },
+    {
+      "title": "Defined Fellow",
+      "description": "Immediate search to understand a term encountered in conversation or reading material.",
+      "time_start": "14:29",
+      "time_end": null
+    },
+    {
+      "title": "Baa",
+      "description": "Immediate curiosity possibly stemming from a conversation or a direct question.",
+      "time_start": "16:11",
+      "time_end": null
+    },
+    {
+      "title": "Lupus cheeks / Malar rash",
+      "description": "Reactive search due to experiencing symptoms or knowledge of someone who is, needing immediate health-related information.",
+      "time_start": "19:22",
+      "time_end": null
+    },
+    {
+      "title": "Transmission Brew",
+      "description": "Curiosity or decision about what beverage to consume, indicative of a short-term action.",
+      "time_start": "19:31",
+      "time_end": null
+    },
+    {
+      "title": "Spirit of the Law AoE2",
+      "description": "Prompted by gaming activities or community discussion for immediate follow-up.",
+      "time_start": "19:44",
+      "time_end": null
+    },
+    {
+      "title": "I Cento Passi Rai Play",
+      "description": "Likely responding to a recommendation or seeking immediate entertainment.",
+      "time_start": "19:47",
+      "time_end": "19:48"
+    }
+  ],
+  "2023-04-26": [
+    {
+      "title": "Mathematical Calculations",
+      "description": "Immediate financial calculations possibly for a specific need or prompt.",
+      "time_start": "5:23",
+      "time_end": "5:26"
+    },
+    {
+      "title": "YouTube Age Verification",
+      "description": "Immediate response to a platform block or prompt.",
+      "time_start": "14:42",
+      "time_end": "14:42"
+    },
+    {
+      "title": "Definition Lookup",
+      "description": "Reactive clarification of a term for immediate understanding or use.",
+      "time_start": "16:10",
+      "time_end": "16:10"
+    },
+    {
+      "title": "Meta Stock Check",
+      "description": "Immediate reaction to news or stock market activity.",
+      "time_start": "16:27",
+      "time_end": "16:27"
+    }
+  ],
+  "2023-04-27": [
+    {
+      "title": "Paris Bars and Weather Check",
+      "description": "Searching for bars and weather in Paris, likely in response to immediate plans, such as an outing or an activity.",
+      "time_start": "7:08",
+      "time_end": "16:24"
+    },
+    {
+      "title": "Cooking Recipe Lookup",
+      "description": "Looking up a recipe for 'frittata agli spinaci', likely responding to the need to prepare a meal in the near term.",
+      "time_start": "10:42",
+      "time_end": "10:42"
+    },
+    {
+      "title": "Personal Relationship Query",
+      "description": "Searching 'dating a taller girl' could be a reaction to a current personal situation.",
+      "time_start": "13:34",
+      "time_end": "13:34"
+    },
+    {
+      "title": "Entertainment-Related Searches",
+      "description": "Looking up information about a singer and actors, possibly in immediate reaction to watching a show or developing interest in the performers.",
+      "time_start": "17:58",
+      "time_end": "19:34"
+    }
+  ],
+  "2023-04-28": [
+    {
+      "title": "Punta Sabbioni Information",
+      "description": "Looking up immediate travel information or location details for Punta Sabbioni.",
+      "time_start": "6:16",
+      "time_end": "6:16"
+    },
+    {
+      "title": "Weather Inquiry",
+      "description": "Checking Paris weather conditions and researching 'anti rain cannon' for immediate practical reasons.",
+      "time_start": "7:58",
+      "time_end": "17:00"
+    },
+    {
+      "title": "Health-Related Search",
+      "description": "Seeking information on 'laxative lactulose' for an immediate health concern.",
+      "time_start": "12:44",
+      "time_end": "12:44"
+    },
+    {
+      "title": "LifeX and Living Spaces",
+      "description": "Exploring LifeX and co-living spaces, indicating a possible immediate interest in living arrangement changes.",
+      "time_start": "12:13",
+      "time_end": "12:13"
+    },
+    {
+      "title": "Crunchbase Company Profiles",
+      "description": "Looking up company profiles on Crunchbase in response to recent events or for quick assessments.",
+      "time_start": "16:47",
+      "time_end": "16:50"
+    },
+    {
+      "title": "Venice Travel Navigation",
+      "description": "Searching for travel-related information within Venice like 'ponte venezia' for immediate navigation purposes.",
+      "time_start": "7:59",
+      "time_end": "7:59"
+    }
+  ],
+  "2023-04-29": [
+    {
+      "title": "Alcoholic Beverages Comparison",
+      "description": "Immediate clarification on rhum vs whisky, likely a quick information need.",
+      "time_start": "0:24",
+      "time_end": "0:24"
+    },
+    {
+      "title": "Speed Conversion",
+      "description": "Converting mph to kmh for an immediate need or query.",
+      "time_start": "1:01",
+      "time_end": "1:01"
+    },
+    {
+      "title": "Weather Lookup",
+      "description": "Checking weather in specific cities, probably for short-term travel planning or daily activities.",
+      "time_start": "12:54",
+      "time_end": "12:54"
+    },
+    {
+      "title": "Employment-related Queries",
+      "description": "Immediate searches related to job hunting or LinkedIn profile adjustments.",
+      "time_start": "11:54",
+      "time_end": "11:57"
+    },
+    {
+      "title": "Interpersonal Issue Advice",
+      "description": "Looking for advice on dealing with a specific, immediate social situation.",
+      "time_start": "19:13",
+      "time_end": "19:14"
+    }
+  ],
+  "2023-04-30": [
+    {
+      "title": "Best Bars in Paris",
+      "description": "Planning for a possible outing soon.",
+      "time_start": "7:29",
+      "time_end": "7:29"
+    },
+    {
+      "title": "Heat Movie Interest",
+      "description": "Immediate desire to obtain more information after hearing about the film or actor.",
+      "time_start": "16:41",
+      "time_end": "16:42"
+    },
+    {
+      "title": "Population Curiosity",
+      "description": "Comparing population stats possibly due to recent conversation or for immediate comparison purposes.",
+      "time_start": "18:06",
+      "time_end": "18:08"
+    },
+    {
+      "title": "Exploring Empanadas",
+      "description": "Prompted by an immediate interest in the cuisine, potentially for meal planning.",
+      "time_start": "18:17",
+      "time_end": "18:18"
+    },
+    {
+      "title": "TV Series Search",
+      "description": "Looking for entertainment options to engage with in the near future.",
+      "time_start": "19:34",
+      "time_end": "19:34"
+    },
+    {
+      "title": "PBS Search",
+      "description": "Immediate response to a specific program or content the user came across.",
+      "time_start": "19:38",
+      "time_end": "19:38"
+    }
+  ]
+}

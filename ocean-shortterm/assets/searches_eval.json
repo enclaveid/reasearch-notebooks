@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "name": "creative organizer",
+      "labels": {
+        "openness": "high",
+        "conscientiousness": "high",
+        "extraversion": "medium",
+        "agreeableness": "medium",
+        "neuroticism": "low"
+      },
+      "scores": {
+        "openness": 0.75,
+        "conscientiousness": 0.75,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.25
+      },
+      "text": "\nOn 2023-03-15, user:\nVisited Event Planning Strategies for Innovative Minds at 08:30\nSearched for Advanced Project Management Techniques at 08:35\nVisited Online Course on Creative Leadership in Event Management at 08:40\nSearched for Effective Time Management for Event Planners at 08:45\nVisited Top 10 Inspiring Event Themes for 2023 at 08:50\nSearched for Collaborative Tools for Team Projects at 09:00\nVisited How to Build Strong Client Relationships in Event Planning at 09:05\nSearched for Innovative Catering Ideas for Corporate Events at 09:15\nVisited Latest Trends in Event Technology - 2023 at 09:20\nSearched for Eco-Friendly Event Planning Ideas at 09:30\nOn 2023-04-10, user:\nVisited Masterclass on Creative Writing by Renowned Authors at 10:00\nSearched for How to Structure a Compelling Novel at 10:05\nVisited Top 5 Self-Publishing Platforms Reviewed at 10:10\nSearched for Enhancing Creativity in Writing at 10:15\nVisited Tips for Effective Character Development in Fiction at 10:20\nSearched for Strategies for Building a Readership Base at 10:30\nVisited The Art of World-Building in Fantasy Novels at 10:35\nSearched for Overcoming Writers Block: Techniques and Tips at 10:45\nVisited How to Pitch Your Novel to Publishers Successfully at 10:50\nSearched for Balancing Dialogue and Description in Writing at 11:00\nOn 2023-05-22, user:\nVisited Innovative Home Organization Techniques for 2023 at 11:00\nSearched for Space-Saving Furniture for Small Apartments at 11:05\nVisited DIY Home Decor Ideas for Creative Minds at 11:10\nSearched for Eco-Friendly Home Decoration Tips at 11:15\nVisited Best Apps for Home Organization and Task Management at 11:20\nSearched for Minimalist Interior Design Trends at 11:30\nVisited How to Create a Personalized Home Office Space at 11:35\nSearched for Feng Shui Tips for Positive Energy at Home at 11:45\nVisited Urban Gardening: Bringing Nature into Your Home at 11:50\nSearched for Smart Home Gadgets for Efficient Living at 12:00\nOn 2023-06-07, user:\nVisited Effective Communication Skills in Professional Networking at 13:00\nSearched for Building Strong Professional Relationships at 13:05\nVisited Online Courses for Enhancing Leadership Skills at 13:10\nSearched for Strategies for Work-Life Balance at 13:15\nVisited Tips for Effective Public Speaking at 13:20\nSearched for How to Be a Good Listener in Conversations at 13:30\nVisited Nurturing Emotional Intelligence in the Workplace at 13:35\nSearched for Overcoming Social Anxiety in Networking Events at 13:45\nVisited Best Practices for Personal Branding Online at 13:50\nSearched for Enhancing Personal Productivity and Focus at 14:00\nOn 2023-07-18, user:\nVisited Online Workshop on Advanced Digital Painting Techniques at 15:00\nSearched for Exploring Different Art Styles and Their Histories at 15:05\nVisited Best Digital Art Software for Professionals at 15:10\nSearched for How to Exhibit Your Art Online Successfully at 15:15\nVisited Learning Resources for Aspiring Graphic Designers at 15:20\nSearched for Collaborative Art Projects for Community Building at 15:30\nVisited Techniques for Combining Traditional and Digital Art at 15:35\nSearched for Art Therapy: Creative Expression for Emotional Well-being at 15:45\nVisited How to Critique Art Constructively at 15:50\nSearched for Upcoming Art Exhibitions Around the World at 16:00\n"
+    },
+    {
+      "name": "relaxed introvert",
+      "labels": {
+        "openness": "medium",
+        "conscientiousness": "low",
+        "extraversion": "low",
+        "agreeableness": "high",
+        "neuroticism": "medium"
+      },
+      "scores": {
+        "openness": 0.5,
+        "conscientiousness": 0.25,
+        "extraversion": 0.25,
+        "agreeableness": 0.75,
+        "neuroticism": 0.5
+      },
+      "text": "\nOn 2020-05-15, user:\nSearched for beginners guide to indoor gardening at 08:30\nVisited Top 10 easy-care houseplants for beginners at 08:35\nSearched for best books for learning watercolor painting at 08:50\nVisited Watercolor for Beginners: A Step-by-Step Guide at 08:55\nSearched for local art supply stores at 09:05\nVisited Peaceful Crafts: 10 DIY Projects for Relaxation at 09:15\nSearched for how to start a journal for mental wellness at 09:25\nVisited Journaling for Mindfulness and Self-Care at 09:30\nSearched for easy yoga routines for beginners at 09:40\nVisited Gentle Yoga for Stress Relief at 09:45\nOn 2020-08-10, user:\nSearched for healthy recipes for one at 10:10\nVisited Easy and Nutritious Solo Meals at 10:15\nSearched for best herbal teas for relaxation at 10:25\nVisited Top 5 Calming Herbal Teas and Their Benefits at 10:30\nSearched for how to bake bread at home at 10:40\nVisited Simple Homemade Bread Recipes for Beginners at 10:45\nSearched for vegetarian meal prep ideas at 11:00\nVisited Week-Long Vegetarian Meal Plan at 11:05\nSearched for cooking classes online at 11:15\nVisited Learn to Cook from Home: Online Cooking Classes at 11:20\nOn 2021-01-21, user:\nSearched for best fantasy books for adults at 12:30\nVisited Top 10 Must-Read Fantasy Novels at 12:35\nSearched for relaxing video games for stress relief at 12:45\nVisited 10 Calming Games to Play for Peace of Mind at 12:50\nSearched for movie recommendations for quiet nights at 13:05\nVisited Top Movies for a Solo Movie Night at 13:10\nSearched for easy listening music playlists at 13:20\nVisited Smooth Sounds: Playlists for Relaxation at 13:25\nSearched for DIY home theater setup at 13:35\nVisited Setting Up Your Own Cozy Movie Space at Home at 13:40\nOn 2021-04-03, user:\nSearched for books on improving emotional intelligence at 14:30\nVisited Top 5 Books to Boost Your Emotional Intelligence at 14:35\nSearched for online courses in personal growth at 14:50\nVisited Personal Growth: Online Courses for Self-Improvement at 14:55\nSearched for how to build better habits at 15:05\nVisited Creating Lasting Habits for a Better You at 15:10\nSearched for mindfulness techniques for beginners at 15:25\nVisited Starting Mindfulness: A Beginners Guide at 15:30\nSearched for improving social skills book at 15:45\nVisited Books on Enhancing Social Interactions and Relationships at 15:50\nOn 2021-07-12, user:\nSearched for best local hiking trails at 16:30\nVisited Guide to Hiking Trails Nearby at 16:35\nSearched for bird watching for beginners at 16:45\nVisited Bird Watching Basics: How to Get Started at 16:50\nSearched for nature photography tips at 17:00\nVisited Capturing the Wild: Tips for Nature Photography at 17:05\nSearched for how to start a balcony garden at 17:15\nVisited Urban Gardening: Growing Plants on Your Balcony at 17:20\nSearched for best times to visit national parks at 17:30\nVisited The Ideal Seasons for Exploring National Parks at 17:35\n"
+    },
+    {
+      "name": "assertive leader",
+      "labels": {
+        "openness": "medium",
+        "conscientiousness": "high",
+        "extraversion": "high",
+        "agreeableness": "low",
+        "neuroticism": "medium"
+      },
+      "scores": {
+        "openness": 0.5,
+        "conscientiousness": 0.75,
+        "extraversion": 0.75,
+        "agreeableness": 0.25,
+        "neuroticism": 0.5
+      },
+      "text": "\nOn 2023-01-15, user:\nSearched for Effective Leadership Strategies in High-Stress Environments at 08:05\nVisited Maximizing Team Performance Under Pressure: A Guide at 08:07\nSearched for Advanced Time Management for Executives at 08:12\nVisited Delegating Tasks Effectively in Management at 08:15\nSearched for Handling Difficult Conversations in the Workplace at 08:20\nVisited Assertive Communication Techniques for Leaders at 08:22\nSearched for Innovative Marketing Strategies for Competitive Markets at 08:30\nVisited Breaking Traditional Marketing Norms: A Study at 08:33\nSearched for Conflict Resolution Methods for Managers at 08:40\nVisited Balancing Empathy and Assertiveness in Leadership at 08:45\nOn 2023-02-10, user:\nSearched for Networking Skills for High-Level Executives at 09:00\nVisited Expanding Your Professional Network: Tips and Tricks at 09:02\nSearched for Project Management Best Practices in Tech at 09:10\nVisited Efficiency in Project Execution: Case Studies at 09:12\nSearched for Leadership Styles in Multinational Companies at 09:20\nVisited Authoritative vs. Democratic Leadership: Outcomes at 09:23\nSearched for Improving Decision-Making Skills in High Pressure Situations at 09:30\nVisited Rapid Decision Making for Business Leaders: Strategies at 09:33\nSearched for Strategies for Handling Employee Dissatisfaction at 09:40\nVisited Direct and Indirect Approaches in Employee Management at 09:45\nOn 2023-03-05, user:\nSearched for How to Drive Team Success in Competitive Industries at 10:05\nVisited Leading Teams to Victory: A Managers Handbook at 10:07\nSearched for Balancing Risk and Innovation in Business at 10:15\nVisited Risk-Taking in Leadership: Calculated Decisions at 10:17\nSearched for Effective Public Speaking for CEOs at 10:25\nVisited Mastering the Art of Persuasive Communication at 10:28\nSearched for Dealing with Burnout in High-Performance Teams at 10:35\nVisited Preventing Burnout: Strategies for Team Leaders at 10:38\nSearched for Building a Culture of Accountability in Organizations at 10:45\nVisited Creating a No-Excuse Work Environment: Techniques at 10:48\nOn 2023-04-20, user:\nSearched for Harnessing High Energy Teams for Maximum Output at 11:00\nVisited Productivity Hacks for Energetic Teams at 11:02\nSearched for Tough Decision Making in Corporate Leadership at 11:10\nVisited Navigating Tough Choices: A Leaders Guide at 11:13\nSearched for Embracing Change in Fast-Paced Industries at 11:20\nVisited Adapting to Change: Strategies for Business Leaders at 11:23\nSearched for Building Resilience in Leadership Positions at 11:30\nVisited Resilient Leadership in Times of Crisis at 11:33\nSearched for Efficient Communication in Large Teams at 11:40\nVisited Streamlining Team Communication for Effectiveness at 11:43\nOn 2023-05-12, user:\nSearched for Strategies for Leading High-Performing Remote Teams at 12:05\nVisited Remote Leadership: Maintaining Team Cohesion at 12:07\nSearched for Innovative Solutions to Common Leadership Challenges at 12:15\nVisited Thinking Outside the Box: Leadership Edition at 12:18\nSearched for Crisis Management Tactics for Senior Executives at 12:25\nVisited Managing Crisis: A Leaders Playbook at 12:28\nSearched for Effective Delegation in Virtual Work Environments at 12:35\nVisited Delegation Skills for Virtual Team Leaders at 12:38\nSearched for Boosting Team Morale in High-Stress Periods at 12:45\nVisited Uplifting Your Team During Challenging Times at 12:48\n"
+    },
+    {
+      "name": "anxious creative ",
+      "labels": {
+        "openness": "high",
+        "conscientiousness": "medium",
+        "extraversion": "medium",
+        "agreeableness": "medium",
+        "neuroticism": "high"
+      },
+      "scores": {
+        "openness": 0.75,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.75
+      },
+      "text": "\nOn 2022-03-15, user:\nSearched for Emerging art trends 2022 at 08:15\nVisited Top 10 Inspiring Artists to Watch at 08:20\nSearched for How to overcome creative block at 08:33\nVisited 5 Techniques to Spark Creativity When Youre Feeling Uninspired at 08:35\nSearched for Dealing with criticism in art at 08:50\nVisited Constructive Criticism: How to Give and Take at 08:52\nSearched for Anxiety relief techniques at 09:05\nVisited 10 Quick Ways to Calm Down at 09:10\nSearched for Networking tips for introverted artists at 09:25\nVisited How to Network Effectively: Tips for Introverts at 09:30\nOn 2022-06-21, user:\nSearched for Best books on cultural history at 10:05\nVisited Top 10 Must-Read Cultural History Books at 10:10\nSearched for Mindfulness for stress reduction at 10:25\nVisited Mindfulness Techniques to Reduce Stress at 10:30\nSearched for DIY home studio setup at 10:45\nVisited Creating a Budget-Friendly Home Studio at 10:50\nSearched for How to accept imperfection in art at 11:05\nVisited Embracing Imperfections in Your Artwork at 11:10\nSearched for Social activities for creatives at 11:20\nVisited Creative Meetups: Finding Your Tribe at 11:25\nOn 2022-09-10, user:\nSearched for Creative writing prompts for inspiration at 12:10\nVisited 50 Writing Prompts to Spark Creativity at 12:15\nSearched for Coping with writers anxiety at 12:30\nVisited Overcoming Anxiety in Writing at 12:35\nSearched for Famous authors daily routines at 12:50\nVisited A Peek into the Daily Routines of Famous Writers at 12:55\nSearched for Balancing creativity and daily life at 13:10\nVisited Maintaining Creative Flow in Everyday Life at 13:15\nSearched for Building a supportive creative community at 13:30\nVisited How to Find and Foster a Creative Community at 13:35\nOn 2022-12-05, user:\nSearched for Self-improvement books for artists at 14:20\nVisited Top 10 Books for Personal Growth as an Artist at 14:25\nSearched for Art therapy for anxiety at 14:40\nVisited Using Art Therapy to Cope with Anxiety at 14:45\nSearched for Time management for creative projects at 15:00\nVisited Effective Time Management for Creatives at 15:05\nSearched for Overcoming fear of failure in art at 15:20\nVisited Facing Your Fears: Overcoming Failure in Art at 15:25\nSearched for Networking events for creative professionals at 15:40\nVisited Upcoming Networking Events for Creatives at 15:45\nOn 2023-02-18, user:\nSearched for Learning digital painting for beginners at 16:30\nVisited Digital Painting 101: A Guide for Beginners at 16:35\nSearched for Strategies to handle artistic jealousy at 16:50\nVisited Dealing with Jealousy in the Creative Industry at 16:55\nSearched for Innovative photography techniques at 17:10\nVisited 10 Cutting-Edge Photography Techniques at 17:15\nSearched for Maintaining mental health as an artist at 17:30\nVisited Mental Health Tips for Artists and Creatives at 17:35\nSearched for Collaborative projects for artists at 17:50\nVisited Finding Collaborative Opportunities in the Arts at 17:55\n"
+    },
+    {
+      "name": "stable introvert",
+      "labels": {
+        "openness": "low",
+        "conscientiousness": "high",
+        "extraversion": "low",
+        "agreeableness": "high",
+        "neuroticism": "low"
+      },
+      "scores": {
+        "openness": 0.25,
+        "conscientiousness": 0.75,
+        "extraversion": 0.25,
+        "agreeableness": 0.75,
+        "neuroticism": 0.25
+      },
+      "text": "\nOn 2022-01-15, user:\nSearched for daily planner templates for efficient scheduling at 08:00\nVisited best practices for time management in personal life at 08:05\nSearched for efficient grocery shopping list organization at 08:15\nVisited local library hours and etiquette at 08:20\nSearched for how to maintain a tidy home environment at 08:30\nVisited tips for effective household budgeting at 08:35\nSearched for simple recipes for healthy family meals at 08:45\nVisited community volunteer opportunities near me at 09:00\nSearched for beginners guide to indoor gardening at 09:10\nVisited ways to support local small businesses at 09:15\nOn 2022-04-10, user:\nSearched for effective communication skills in the workplace at 07:45\nVisited organizing your office space for maximum productivity at 07:50\nSearched for team-building activities for introverts at 08:00\nVisited how to create detailed project plans at 08:10\nSearched for importance of punctuality in professional settings at 08:20\nVisited upcoming professional development seminars at 08:30\nSearched for stress management techniques for office workers at 08:40\nVisited guidelines for respectful workplace communication at 08:50\nSearched for maintaining work-life balance for introverts at 09:00\nVisited creating effective to-do lists for daily work tasks at 09:10\nOn 2022-06-21, user:\nSearched for guided meditation for stress relief at 08:30\nVisited yoga routines for beginners at 08:35\nSearched for books on personal finance management at 08:45\nVisited healthy meal planning for singles at 08:50\nSearched for tips for maintaining personal relationships at 09:00\nVisited self-help books for introverted personalities at 09:05\nSearched for local community events for quiet people at 09:15\nVisited how to set achievable personal goals at 09:20\nSearched for importance of regular health check-ups at 09:30\nVisited online courses in personal development at 09:35\nOn 2022-09-05, user:\nSearched for family-friendly activities for weekends at 08:10\nVisited volunteering with children in local communities at 08:15\nSearched for educational games for family bonding at 08:25\nVisited how to support a spouse in their career at 08:30\nSearched for organizing community clean-up events at 08:40\nVisited balancing work and family life effectively at 08:45\nSearched for ways to contribute to local charities at 08:55\nVisited parenting tips for introverted children at 09:00\nSearched for community book clubs and reading groups at 09:10\nVisited how to be a good listener in relationships at 09:15\nOn 2022-12-12, user:\nSearched for beginner exercises for a healthy lifestyle at 07:30\nVisited nutritional guidelines for balanced diets at 07:35\nSearched for importance of regular sleep patterns at 07:45\nVisited stress reduction techniques for home life at 07:50\nSearched for basic first aid skills everyone should know at 08:00\nVisited creating a peaceful home environment at 08:05\nSearched for how to maintain mental health at 08:15\nVisited local health and wellness workshops at 08:20\nSearched for building strong support systems in your community at 08:30\nVisited simple ways to show kindness to others at 08:35\n"
+    },
+    {
+      "name": "Reserved realist ",
+      "labels": {
+        "openness": "medium",
+        "conscientiousness": "medium",
+        "extraversion": "low",
+        "agreeableness": "medium",
+        "neuroticism": "low"
+      },
+      "scores": {
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.25,
+        "agreeableness": 0.5,
+        "neuroticism": 0.25
+      },
+      "text": "\nOn 2022-05-03, user:\nSearched for best practices in time management at 08:10\nVisited Time Management Strategies for Professionals - Forbes at 08:12\nSearched for introvert-friendly workplaces at 08:27\nVisited Creating a Comfortable Workspace for Introverts - HBR at 08:29\nSearched for efficient home gardening techniques at 08:45\nVisited Gardening for Beginners: Essential Guide at 08:47\nSearched for historical fiction book recommendations at 09:03\nVisited Top 10 Historical Fiction for Reserved Readers - Goodreads at 09:05\nSearched for how to maintain work-life balance at 09:20\nVisited Balancing Work and Personal Life - Psychology Today at 09:22\nOn 2022-08-16, user:\nSearched for quiet travel destinations at 07:30\nVisited Top 10 Quiet Getaways for Introverts - Travel+Leisure at 07:32\nSearched for non-fiction books on self-improvement at 07:50\nVisited Best Self-improvement Books of the Year - NY Times at 07:52\nSearched for online courses in personal finance at 08:05\nVisited Personal Finance 101 - Coursera at 08:07\nSearched for healthy introvert social activities at 08:20\nVisited Socializing for Introverts: Low-Energy Activities - HuffPost at 08:22\nSearched for easy recipes for one at 08:40\nVisited Solo Cooking: Delicious and Simple Recipes - AllRecipes at 08:42\nOn 2023-01-12, user:\nSearched for tips for effective personal budgeting at 08:00\nVisited The Beginners Guide to Budgeting - NerdWallet at 08:02\nSearched for how to build a small home library at 08:15\nVisited Designing a Home Library for Quiet Readers - Architectural Digest at 08:17\nSearched for organizational skills for introverts at 08:30\nVisited Organizational Hacks for Introverted Minds - Lifehack at 08:32\nSearched for documentaries on ancient civilizations at 08:45\nVisited Top Documentaries on Ancient History - IMDB at 08:47\nSearched for ways to reduce digital distractions at 09:00\nVisited Minimizing Digital Distractions in Your Life - Wired at 09:02\nOn 2023-04-25, user:\nSearched for indoor plants for clean air at 07:45\nVisited Best Indoor Plants for Air Purification - NASA Study at 07:47\nSearched for historical mysteries and puzzles at 08:00\nVisited Fascinating Historical Puzzles Yet to be Solved - BBC History at 08:02\nSearched for effective communication for introverts at 08:20\nVisited Introverts Guide to Effective Communication - Forbes at 08:22\nSearched for self-paced yoga routines at 08:35\nVisited Yoga for One: Self-Paced Routines - Yoga Journal at 08:37\nSearched for solo board games and puzzles at 08:50\nVisited Best Solo Board Games for Quiet Evenings - BoardGameGeek at 08:52\nOn 2023-07-08, user:\nSearched for how to write a personal journal at 09:00\nVisited Journal Writing Guide for Introverts - Medium at 09:02\nSearched for classic literature for reflective minds at 09:15\nVisited Classics Every Reserved Realist Should Read - Literary Hub at 09:17\nSearched for mindful meditation techniques at 09:30\nVisited Meditation for Beginners: Mindfulness Practices - Headspace at 09:32\nSearched for low-energy weekend activities at 09:45\nVisited Relaxing Activities for Low-Energy Weekends - Calm at 09:47\nSearched for easy-to-care-for houseplants at 10:00\nVisited Houseplants for Beginners: Low Maintenance Options - Gardeners World at 10:02\n"
+    },
+    {
+      "name": "independent observer",
+      "labels": {
+        "openness": "low",
+        "conscientiousness": "medium",
+        "extraversion": "low",
+        "agreeableness": "low",
+        "neuroticism": "medium"
+      },
+      "scores": {
+        "openness": 0.25,
+        "conscientiousness": 0.5,
+        "extraversion": 0.25,
+        "agreeableness": 0.25,
+        "neuroticism": 0.5
+      },
+      "text": "\nOn 2023-01-15, user:\nSearched for Efficient Solo Work Techniques at 08:30\nVisited Self-Reliance in Professional Development - Blog Post at 08:35\nSearched for Introvert Leadership Skills at 08:40\nVisited Strategies for Keeping Emotions in Check at Work at 08:45\nSearched for Time Management for Independent Workers at 08:50\nVisited How to Avoid Workplace Conflicts - Expert Advice at 08:55\nSearched for Personal Accountability in Projects at 09:00\nVisited Dealing with Difficult Colleagues: A Guide at 09:05\nSearched for Maintaining Focus in Isolated Work Environments at 09:10\nVisited Methods for Handling Work-Related Stress at 09:15\nOn 2023-03-22, user:\nSearched for Building Professional Boundaries at 10:00\nVisited Remote Work Best Practices for the Independent Worker at 10:05\nSearched for Effective Solo Decision Making at 10:10\nVisited Emotional Detachment in Professional Settings at 10:15\nSearched for Independent Project Management Tools at 10:20\nVisited Avoiding Overcommitment in Work Projects at 10:25\nSearched for Techniques for Self-Motivation at 10:30\nVisited Setting Realistic Goals as an Independent Worker at 10:35\nSearched for Non-Collaborative Work Environments at 10:40\nVisited Managing Work Anxiety Solo at 10:45\nOn 2023-05-08, user:\nSearched for Non-Team Based Work Strategies at 11:00\nVisited Self-Discipline in Independent Careers at 11:05\nSearched for Strategies for Emotional Self-Regulation at Work at 11:10\nVisited Critical Thinking Without Team Input at 11:15\nSearched for Effective Isolated Working Environments at 11:20\nVisited Overcoming Personal Challenges in the Workplace at 11:25\nSearched for Solo Project Planning Techniques at 11:30\nVisited Self-Evaluation Methods for Work Performance at 11:35\nSearched for Minimizing Work-Related Stress Alone at 11:40\nVisited Developing Resilience in Solo Work Settings at 11:45\nOn 2023-07-17, user:\nSearched for Independent Time Management Systems at 12:30\nVisited Creating a Solo Work Routine at 12:35\nSearched for Dealing with Isolation in Remote Work at 12:40\nVisited Non-Team Project Execution Strategies at 12:45\nSearched for Maintaining Professional Independence at 12:50\nVisited Emotion Management for Solo Workers at 12:55\nSearched for Self-Management Techniques in Professional Settings at 13:00\nVisited Avoiding Workplace Drama as an Independent Worker at 13:05\nSearched for Handling Professional Pressure Alone at 13:10\nVisited Solo Workers Guide to Productivity at 13:15\nOn 2023-10-03, user:\nSearched for Non-Collaborative Professional Development at 14:00\nVisited How to Work Alone Effectively at 14:05\nSearched for Building Resilience in Solo Work Environments at 14:10\nVisited Self-Dependence in Work Tasks at 14:15\nSearched for Introvert-Friendly Work Techniques at 14:20\nVisited Stress Management for Independent Professionals at 14:25\nSearched for Autonomous Work Planning at 14:30\nVisited Navigating Work Challenges Without Support at 14:35\nSearched for Self-Sufficiency in Professional Settings at 14:40\nVisited Balancing Work and Emotions as a Solo Worker at 14:45\n"
+    },
+    {
+      "name": "methodical individualist ",
+      "labels": {
+        "openness": "medium",
+        "conscientiousness": "medium",
+        "extraversion": "medium",
+        "agreeableness": "low",
+        "neuroticism": "low"
+      },
+      "scores": {
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.25,
+        "neuroticism": 0.25
+      },
+      "text": "\nOn 2020-03-15, user:\nSearched for advanced Excel formulas for data analysis at 08:30\nVisited Data Analysis Techniques Using Excel at 08:32\nSearched for conflict resolution in team settings at 08:45\nVisited Effective Team Conflict Resolution Strategies at 08:47\nSearched for self-improvement books for professionals at 09:00\nVisited Top 10 Books for Career Growth at 09:02\nSearched for productivity hacks for remote work at 09:15\nVisited Maximizing Efficiency While Working Remotely at 09:17\nSearched for assertive communication techniques at 09:30\nVisited Assertiveness in Professional Communication at 09:32\nOn 2021-06-20, user:\nSearched for latest trends in digital marketing at 10:10\nVisited Emerging Trends in Digital Marketing 2021 at 10:12\nSearched for effective leadership in tech companies at 10:25\nVisited Leadership Strategies for Tech Executives at 10:27\nSearched for time management for high performers at 10:40\nVisited Time Management Tips for Successful People at 10:42\nSearched for best practices in client negotiations at 10:55\nVisited Mastering Client Negotiations: Best Practices at 10:57\nSearched for enhancing team productivity in agile environments at 11:10\nVisited Boosting Team Productivity in Agile Frameworks at 11:12\nOn 2022-01-12, user:\nSearched for blockchain technology in finance at 11:30\nVisited Blockchain Revolution in Financial Sector at 11:32\nSearched for overcoming procrastination at work at 11:45\nVisited Strategies to Beat Procrastination in the Workplace at 11:47\nSearched for effective remote team communication tools at 12:00\nVisited Top Tools for Remote Team Communication at 12:02\nSearched for how to give constructive feedback at 12:15\nVisited Art of Giving Constructive Feedback at 12:17\nSearched for improving decision-making skills at 12:30\nVisited Enhancing Decision Making Abilities at 12:32\nOn 2023-04-08, user:\nSearched for advanced project management certifications at 13:00\nVisited Top Certifications for Project Managers at 13:02\nSearched for AI applications in business at 13:15\nVisited Artificial Intelligence in Modern Business at 13:17\nSearched for effective team building in hybrid work environments at 13:30\nVisited Team Building Strategies for Hybrid Workplaces at 13:32\nSearched for mastering public speaking for leaders at 13:45\nVisited Public Speaking Mastery for Business Leaders at 13:47\nSearched for strategies to increase emotional intelligence at 14:00\nVisited Developing Emotional Intelligence for Professionals at 14:02\nOn 2023-11-17, user:\nSearched for innovations in renewable energy at 14:30\nVisited Latest Innovations in Renewable Energy Sector at 14:32\nSearched for maintaining work-life balance in high-pressure jobs at 14:45\nVisited Achieving Work-Life Balance in Demanding Careers at 14:47\nSearched for advanced techniques in data visualization at 15:00\nVisited Cutting-Edge Data Visualization Methods at 15:02\nSearched for fostering creativity in the workplace at 15:15\nVisited Encouraging Creativity Among Employees at 15:17\nSearched for best practices in risk management at 15:30\nVisited Effective Risk Management Strategies at 15:32\n"
+    }
+  ]
+}
