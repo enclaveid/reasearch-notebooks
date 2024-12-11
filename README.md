@@ -1,4 +1,4 @@
-# data-analysis
+# research-notebooks
 
 A central repo for all the exploratory data analysis work:
 - `activity-graph`: a DAG of of the development of the user's knowledge as infferred by GSH.  
